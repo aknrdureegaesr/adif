@@ -6,8 +6,8 @@ require 'adif/version'
 Gem::Specification.new do |spec|
   spec.name          = "adif"
   spec.version       = ADIF::VERSION
-  spec.authors       = ["cho45"]
-  spec.email         = ["cho45@lowreal.net"]
+  spec.authors       = ["dj3ei", "cho45"]
+  spec.email         = ["dj3ei@famsik.de"]
   spec.summary       = %q{ADIF Parser/Writer}
   spec.description   = %q{ADIF (Amateur Data Interchange Format) is an open standard for exchange of data between ham radio software.}
   spec.homepage      = ""
